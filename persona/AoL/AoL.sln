@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.3
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AoL", "AoL\AoL.csproj", "{A693BA1C-2CC3-441A-B7FF-8954FAF75D83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A693BA1C-2CC3-441A-B7FF-8954FAF75D83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A693BA1C-2CC3-441A-B7FF-8954FAF75D83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A693BA1C-2CC3-441A-B7FF-8954FAF75D83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A693BA1C-2CC3-441A-B7FF-8954FAF75D83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
